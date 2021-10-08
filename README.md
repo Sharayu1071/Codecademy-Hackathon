@@ -7,6 +7,10 @@
 
 - Home Clinic to manage emergency situations with many other features to make your life healthy and easy.
 
+**This is landing page of Home Clinic **
+![home png](https://user-images.githubusercontent.com/83999940/136512217-88525de6-db62-47d4-9f76-a804ca48cd94.png)
+
+
 ### By Team Hack Elite
 
 # 👩‍ Overview
