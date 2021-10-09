@@ -3,22 +3,32 @@
 
 # 💬 Home Clinic
 
-## Home Clinic - Your Health Buddy
+### Home Clinic - Your Health Buddy
+Home Clinic to manage emergency situations with many other features to make your life healthy and easy.
 
-- Home Clinic to manage emergency situations with many other features to make your life healthy and easy.
+## By Team Hack Elite
 
-### By Team Hack Elite
+# Introduction
 
-# 👩‍ Overview
+In this situation, coronavirus spread like wildfire to every corner of the world. One of the most common problems faced by today’s people is a lack of knowledge of diseases and a lack of immediate first aid consultation. Due to this many people may suffer from physical and mental stress as they try to figure out the reason for their condition. In some cases, they even lost their lives and common diseases become life-threatening.
 
- In this situation, coronavirus spread like wildfire to every corner of the world. In such a scenario, patients are now largely being advised to take online consultations with doctors in the comfort of their own home instead of physical consultations at the hospital in the clinic. so online consultations are much better than physical consultation at the clinic and our application provides many more good services that provide smooth and easy home tests. We are trying to achieve 100% online treatment with all the privacy.
+In such a scenario, patients are now largely being advised to take online consultations with doctors in the comfort of their own home instead of physical consultations at the hospital in the clinic.
 
+so online consultations are much better than physical consultation at the clinic and our application provides many more good services that provide smooth and easy home tests. Home Clinic also has a special section for COVID19 vaccination in which user can book their vaccination slots, this makes it different from the existing system. It has a user-friendly interface, and it’s more accurate than the existing system.
 
-# 👬 Feature
+# Objective
+ 
+- To reduce the gap between Patients and Doctors through online video facilities.
+- To help uPatients to maintain a healthy lifestyle.
+- To give immediate and proper medication so that anyone with an internet facility can have access to it regardless of their time and place. 
 
-- Login
-- Book an appointment 
-- vaccination availability
+# Modules
+
+### Given below are the modules present in our web application
+
+- Login 
+- Appointment page 
+- vaccination availability section
 - Video Call Feature
 - Chatbot for assistance
 - specialist doctors section
@@ -28,20 +38,24 @@
 
 ### The project is created using
 
-- HTML,CSS,Javascript
+- HTML
+- CSS
+- Javascript
 - PHP
 - MySQL
+- jQuery
 - Sawo Api
-- Razorpay payment gateway integration
+- Razorpay payment gateway integration.
 - vaccination availability Api
 - Firebase WebRTC
+- Canva
 
 
 # 🚀 Future Plans
 
-- Doctors login.
+- Doctors login page.
 - patient profile page.
-- Online medicines delivery feature.
+- online medicine delivery at doorstep.
 - Will try to include blockchain technology to keep the data safe and maintain privacy of our users.
 
 **This is landing page of Home Clinic **
