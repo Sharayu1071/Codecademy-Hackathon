@@ -1,14 +1,14 @@
 
-## 📖 Domain: HealthCare
+## :dizzy: Domain: HealthCare
 
-# 💬 Home Clinic
+# :hospital: Home Clinic
 
 ### Home Clinic - Your Health Buddy
 Home Clinic to manage emergency situations with many other features to make your life healthy and easy.
 
-## By Team Hack Elite
+# :two_women_holding_hands: Team Hack Elite
 
-# Introduction
+# :star2: Introduction
 
 In this situation, coronavirus spread like wildfire to every corner of the world. One of the most common problems faced by today’s people is a lack of knowledge of diseases and a lack of immediate first aid consultation. Due to this many people may suffer from physical and mental stress as they try to figure out the reason for their condition. In some cases, they even lost their lives and common diseases become life-threatening.
 
@@ -16,13 +16,13 @@ In such a scenario, patients are now largely being advised to take online consul
 
 so online consultations are much better than physical consultation at the clinic and our application provides many more good services that provide smooth and easy home tests. Home Clinic also has a special section for COVID19 vaccination in which user can book their vaccination slots, this makes it different from the existing system. It has a user-friendly interface, and it’s more accurate than the existing system.
 
-# Objective
+# :dart: Objective
  
 - To reduce the gap between Patients and Doctors through online video facilities.
 - To help uPatients to maintain a healthy lifestyle.
 - To give immediate and proper medication so that anyone with an internet facility can have access to it regardless of their time and place. 
 
-# Modules
+# :memo: Modules
 
 ### Given below are the modules present in our web application
 
@@ -34,7 +34,7 @@ so online consultations are much better than physical consultation at the clinic
 - specialist doctors section
 - Blogs Section
 
-# 🔆 Tech Stack
+# :telescope: Tech Stack
 
 ### The project is created using
 
@@ -58,9 +58,9 @@ so online consultations are much better than physical consultation at the clinic
 - online medicine delivery at doorstep.
 - Will try to include blockchain technology to keep the data safe and maintain privacy of our users.
 
-**This is landing page of Home Clinic **
+## This is landing page of Home Clinic 
 
 ![home png](https://user-images.githubusercontent.com/83999940/136512217-88525de6-db62-47d4-9f76-a804ca48cd94.png)
 
 
-# Thank You :)
+# :pray: Thank You :)
