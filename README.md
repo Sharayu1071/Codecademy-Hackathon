@@ -63,4 +63,19 @@ so online consultations are much better than physical consultation at the clinic
 ![home png](https://user-images.githubusercontent.com/83999940/136512217-88525de6-db62-47d4-9f76-a804ca48cd94.png)
 
 
+**##In about section you will get to know the importance of Home-clinic web-app**
+
+![about png](https://user-images.githubusercontent.com/83999940/136648564-e151c92a-a470-47a5-8764-bc8e9e4ede31.png)
+
+
+**##Here you can search for the vaccinnation center nearest to your locationby searching through PIN code**
+
+![vaccine png](https://user-images.githubusercontent.com/83999940/136648595-91097ab3-0061-4639-8880-3156d8046df2.png)
+
+
+**##You can connect with you doctors without going physically**
+
+![meet png](https://user-images.githubusercontent.com/83999940/136648637-cea54d31-f5b2-4bfc-9f01-6f2e08139321.png)
+
+
 # :pray: Thank You :)
