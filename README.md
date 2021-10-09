@@ -60,7 +60,40 @@ so online consultations are much better than physical consultation at the clinic
 
 ## This is landing page of Home Clinic 
 
-![home png](https://user-images.githubusercontent.com/83999940/136512217-88525de6-db62-47d4-9f76-a804ca48cd94.png)
+![home final](https://user-images.githubusercontent.com/83999940/136649166-cd5e5e38-05a8-4578-8852-7b0112d12b61.png)
+
+
+
+## In about section you will get to know the importance of Home-clinic web-app
+
+![about png](https://user-images.githubusercontent.com/83999940/136648564-e151c92a-a470-47a5-8764-bc8e9e4ede31.png)
+
+
+
+## Here you can search for the vaccinnation center nearest to your locationby searching through PIN code**
+
+![vaccine final](https://user-images.githubusercontent.com/83999940/136649153-bcde0755-0edc-436f-8ad9-4e16cdffa096.png)
+
+
+
+## You can virtually connect with you doctors 
+
+![consult](https://user-images.githubusercontent.com/83999940/136649300-adb4c077-6b7c-416b-a299-b3ff7365cef9.png)
+
+
+
+## In this section you can connect with your specialist by using external chat section
+
+![doctors](https://user-images.githubusercontent.com/83999940/136649382-5270edd7-1bac-4494-9a33-559b8b3b1c29.png)
+
+
+
+## Here you can check rating of our home clinic given by our patients and also can check blogs written by experts
+
+![blog](https://user-images.githubusercontent.com/83999940/136649436-e9550e51-f778-4586-9fce-b9a7e19d216e.png)
+
+
+
 
 
 # :pray: Thank You :)
