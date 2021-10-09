@@ -70,7 +70,7 @@ so online consultations are much better than physical consultation at the clinic
 
 
 
-## Here you can search for the vaccinnation center nearest to your locationby searching through PIN code**
+## Here you can search for the vaccinnation center nearest to your locationby searching through PIN code
 
 ![vaccine final](https://user-images.githubusercontent.com/83999940/136649153-bcde0755-0edc-436f-8ad9-4e16cdffa096.png)
 
