@@ -49,6 +49,7 @@ so online consultations are much better than physical consultation at the clinic
 - vaccination availability Api
 - Firebase WebRTC
 - Canva
+- 000webhost hosting
 
 
 # 🚀 Future Plans
