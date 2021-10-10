@@ -8,6 +8,8 @@ Home Clinic to manage emergency situations with many other features to make your
 
 # :two_women_holding_hands: Team Hack Elite
 
+### :video_camera: [click here to know more](https://www.youtube.com/watch?v=tZAdS2MQQnA&t=14s)
+
 # :star2: Introduction
 
 In this situation, coronavirus spread like wildfire to every corner of the world. One of the most common problems faced by today’s people is a lack of knowledge of diseases and a lack of immediate first aid consultation. Due to this many people may suffer from physical and mental stress as they try to figure out the reason for their condition. In some cases, they even lost their lives and common diseases become life-threatening.
