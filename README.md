@@ -73,25 +73,25 @@ so online consultations are much better than physical consultation at the clinic
 
 
 
-## Here you can search for the vaccinnation center nearest to your locationby searching through PIN code
+## Here you can search for the vaccinnation center nearest to your location searching through PIN code.
 
 ![vaccine final](https://user-images.githubusercontent.com/83999940/136649153-bcde0755-0edc-436f-8ad9-4e16cdffa096.png)
 
 
 
-## You can virtually connect with you doctors 
+## You can virtually connect with you doctors. 
 
 ![consult](https://user-images.githubusercontent.com/83999940/136649300-adb4c077-6b7c-416b-a299-b3ff7365cef9.png)
 
 
 
-## In this section you can connect with your specialist by using external chat section
+## In this section you can connect with your specialist by using external chat section.
 
 ![doctors](https://user-images.githubusercontent.com/83999940/136649382-5270edd7-1bac-4494-9a33-559b8b3b1c29.png)
 
 
 
-## Here you can check rating of our home clinic given by our patients and also can check blogs written by experts
+## this is rating of home clinic and you can check blogs written by experts.
 
 ![blog](https://user-images.githubusercontent.com/83999940/136649436-e9550e51-f778-4586-9fce-b9a7e19d216e.png)
 
