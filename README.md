@@ -1,4 +1,3 @@
-
 ## :dizzy: Domain: HealthCare
 
 # :hospital: Home Clinic
